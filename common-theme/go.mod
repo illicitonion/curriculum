@@ -1,3 +1,3 @@
-module github.com/CodeYourFuture/curriculum-labs/tree/main/common-theme
+module github.com/CodeYourFuture/curriculum-labs/common-theme
 
 go 1.21.3
