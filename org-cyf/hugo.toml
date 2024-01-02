@@ -2,10 +2,20 @@ baseURL = "/"
 title = "CodeYourFuture Curriculum"
 sectionPagesMenu = "main"
 enableEmoji = true
-theme="common-theme"
-
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
+
+[module]
+  [[module.imports]]
+    path = "github.com/CodeYourFuture/curriculum-labs/common-theme" 
+  [[module.imports]]
+    path = "github.com/CodeYourFuture/curriculum-labs/common-content" 
+    [[imports.mounts]]
+      source = "content/en"
+      target = "content"
+      lang = "en"
+
+
 
 [languages]
   [languages.en]
@@ -63,3 +73,6 @@ maxAge = 0
 # Allow accessing a GitHub bearer token to avoid rate limits when doing HTTP fetches to the GitHub API.
 # This can be generated at https://github.com/settings/tokens?type=beta and needs read-only access to all public CYF GitHub repos.
 getenv = ["^HUGO_CURRICULUM_GITHUB_BEARER_TOKEN$"]
+
+
+theme = "common-theme"
