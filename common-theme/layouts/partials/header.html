@@ -2,10 +2,12 @@
   <div class="l-header__container">
     <h1 class="l-header__heading e-heading__6">
       <a class="l-header__home" href="/"
-        ><span class="is-invisible">{{ $.Site.Title }} - Home</span
-        > {{ with resources.Get $.Site.Params.logo -}}
-          {{ ( . | minify).Content | safeHTML -}}
-        {{ end -}}
+        ><span class="is-invisible">{{ .Section }} {{.Title}} {{$.Site.Title }}</span
+        > 
+        {{ $logos := resources.Match "custom-images/site-logo/*" }}
+        {{ range $logos }}
+          {{ .Content | safeHTML }}
+        {{ end}}
       </a>
     </h1>
     {{ partial "search.html" }}

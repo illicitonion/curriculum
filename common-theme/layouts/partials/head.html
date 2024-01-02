@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>{{ .Title }} | {{ .Site.Title }}</title>
+  <title>{{.Section }} | {{ .Title }} | {{ .Site.Title }}</title>
   {{ if .Page.Params.description }}
     <meta name="description" content="{{ .Page.Params.description }}" />
   {{ else }}
