@@ -3,7 +3,7 @@
 {{ if ne (os.Getenv "HUGO_CURRICULUM_GITHUB_BEARER_TOKEN") "" }}
   {{ $headers = merge $headers (dict "Authorization" (printf "Bearer %s" (getenv "HUGO_CURRICULUM_GITHUB_BEARER_TOKEN"))) }}
 {{ end }}
-{{ $contributors := getJSON (printf "%s%s/contributors" $orgapi $repo) $headers }}
+{{ $contributors := getJSON (printf "%s%s/contributors" $Site.Params.orgapi $repo) $headers }}
 
 
 <ol class="c-contributors">
