@@ -1,8 +1,7 @@
 baseURL = "/"
-title = "Our Curriculum"
+title = "Our Platform"
 sectionPagesMenu = "main"
 enableEmoji = true
-
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 
@@ -16,24 +15,26 @@ defaultContentLanguageInSubdir = false
     [[menus.secondary]]
         name = "Menu 1 👈🏾"
         weight = 1
-        url = "/guides"
+        url = ""
      [[menus.secondary]]
         name = "Menu 2 👋🏿"
         weight = 2
-        url = "https://codeyourfuture.io/volunteers/"
+        url = ""
     [[menus.secondary]]
         name = "Menu 3 🫶🏼"
         weight = 3
-        url = "https://codeyourfuture.io/donate/"
+        url = ""
 
 [params]
+logo="/logos/site-logo.svg"
+googleFonts="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;500;700&family=Inter:wght@400;600&display=swap"
 description = "A free and open source software development programme."
-org = "https://github.com/CodeYourFuture"
-repo = "https://github.com/CodeYourFuture/curriculum/"
-tree = "https://github.com/CodeYourFuture/curriculum/tree/main/"
-edit = "https://github.com/CodeYourFuture/curriculum/edit/main/"
-root = "curriculum"
-orgapi = "https://api.github.com/repos/CodeYourFuture/"
+main_website = ""
+main_org_name = "eg Code Your Future"
+org = "https://github.com/YOUR_ORG_HERE"
+repo = "https://github.com/YOUR_ORG_HERE/YOUR_REPO/"
+root = "YOUR_REPO_I_THINK"
+orgapi = "https://api.github.com/repos/YOUR_ORG_HERE/"
 # We use a proxy which concatenates paginated responses, otherwise we miss results.
 # Daniel is currently hosting this code https://github.com/illicitonion/github-issue-proxy but we should work out a long-term maintainable solution to this problem.
 issuesorgapi = "https://github-issue-proxy.illicitonion.com/repos/CodeYourFuture/"
