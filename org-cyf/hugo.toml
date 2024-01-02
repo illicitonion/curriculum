@@ -5,12 +5,10 @@ title = "CYF Curriculum"
     path = "github.com/CodeYourFuture/curriculum-labs/common-theme" 
   [[module.imports]]
     path = "github.com/CodeYourFuture/curriculum-labs/common-content" 
-    [[imports.mounts]]
-      source = "content/en"
+    [[module.imports.mounts]]
+      source = "en"
       target = "content"
-      lang = "en"
-
-
+      
 [menus]
     [[menus.secondary]]
         name = "Guides 👈🏾"
