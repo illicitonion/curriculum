@@ -1,7 +1,8 @@
 <svg class="is-none--gt-container"
           xmlns="http://www.w3.org/2000/svg"
           version="1.0"
-          viewBox="0 0 512 512">
+          viewBox="0 0 512 512"
+          width="48px">
           <path
             fill="currentcolor"
             stroke="currentcolor"

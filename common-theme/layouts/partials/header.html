@@ -4,10 +4,8 @@
       <a class="l-header__home" href="/"
         ><span class="is-invisible">{{ .Section }} {{.Title}} {{$.Site.Title }}</span
         > 
-        {{ $logos := resources.Match "custom-images/site-logo/*" }}
-        {{ range $logos }}
-          {{ .Content | safeHTML }}
-        {{ end}}
+        {{ $logos := resources.Match "custom-images/site-logo/*.svg" }}
+        {{ range $logos }}{{ .Content | safeHTML }}{{ end}}
       </a>
     </h1>
     {{ partial "search.html" }}
