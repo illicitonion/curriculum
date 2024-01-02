@@ -1,7 +1,7 @@
 +++
-title = 'Understanding Requirements'
+title = 'User Stories'
 headless = true
-time = 50
+time = 30
 facilitation = false
 vocabulary=["Requirements", "User Stories"]
 emoji= '🧩'
@@ -11,8 +11,6 @@ emoji= '🧩'
     3='Resolve trade-offs in conflicting requirements'
     4='Translate requirements into high-level design outlines'
 +++
-
-{{< snippet "snippets/requirements.md" >}}
 
 #### Imagine a coursework tracker
 
