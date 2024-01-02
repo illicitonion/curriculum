@@ -18,7 +18,7 @@ time="0"
 caption="Picture by Maggie Appleton"
 [[blocks]]
 name="🦻🏼 Handling Events"
-src="module/react/handling-events""
+src="module/react/handling-events"
 [[blocks]]
 name="🚦 Some components have state"
 src="https://github.com/MaggieAppleton/react-metaphors-slides/blob/master/PNGs/MetaphorsofReact_2.0.038.png"
@@ -36,11 +36,11 @@ caption="We only need state if our component changes after launch. Picture by Ma
 time="0"
 [[blocks]]
 name="🚦 State"
-src="module/react/state""
+src="module/react/state"
 [[blocks]]
 name="🪞 Re-rendering"
-src="module/react/re-rendering""
+src="module/react/re-rendering"
 [[blocks]]
 name="Prep Problem Solving"
-src="https://cyf-pd.netlify.app/blocks//prep-problem-solving/readme/""
+src="https://cyf-pd.netlify.app/blocks/prep-problem-solving/readme/"
 +++

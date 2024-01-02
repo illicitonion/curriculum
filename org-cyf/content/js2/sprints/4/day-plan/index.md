@@ -11,10 +11,10 @@ name="Energiser"
 src="blocks/energiser"
 [[blocks]]
 name="Ball Point Game"
-src="https://cyf-pd.netlify.app/blocks//ball-point-game/readme/""
+src="https://cyf-pd.netlify.app/blocks/ball-point-game/readme/"
 [[blocks]]
 name="Public Speaking and Circles Of Influence"
-src="https://cyf-pd.netlify.app/blocks//public-speaking-circles-of-influence/readme/""
+src="https://cyf-pd.netlify.app/blocks/public-speaking-circles-of-influence/readme/"
 [[blocks]]
 src="blocks/morning-break"
 name="Morning break"
@@ -24,12 +24,12 @@ src="https://github.com/CodeYourFuture/Module-JS2/issues/66"
 time="15"
 [[blocks]]
 name="Create Groups For JS3"
-src="https://cyf-pd.netlify.app/blocks//create-groups-for-js3/readme/""
+src="https://cyf-pd.netlify.app/blocks/create-groups-for-js3/readme/"
 [[blocks]]
 name="Lunch"
 src="blocks/lunch"
 [[blocks]]
-src="module/js2/check-in""
+src="module/js2/check-in"
 name="Check in"
 [[blocks]]
 src="blocks/study-60"
@@ -39,7 +39,7 @@ time="70"
 src="blocks/afternoon-break"
 name="Afternoon break"
 [[blocks]]
-src="module/js2/demo""
+src="module/js2/demo"
 name="Demo"
 [[blocks]]
 src="blocks/retro"

@@ -11,7 +11,7 @@ name="Energiser"
 src="blocks/energiser"
 [[blocks]]
 name="Teamwork Project Sprint 1"
-src="https://cyf-pd.netlify.app/blocks//teamwork-project-s1/readme/""
+src="https://cyf-pd.netlify.app/blocks/teamwork-project-s1/readme/"
 [[blocks]]
 src="blocks/morning-break"
 name="Morning break"

@@ -14,13 +14,13 @@ name="Spaced Repetition"
 src="blocks/spaced-repetition"
 [[blocks]]
 name="What is CSS"
-src="module/html-css/what-is-css""
+src="module/html-css/what-is-css"
 [[blocks]]
 name="CSS skills practice"
 src="https://www.youtube.com/playlist?list=PLozA7cloMbPgM0Cra4IhDg_HvhP727Abo"
 [[blocks]]
 name="Active listening prep"
-src="https://cyf-pd.netlify.app/blocks//prep-for-active-listening/readme/""
+src="https://cyf-pd.netlify.app/blocks/prep-for-active-listening/readme/"
 [[blocks]]
 name="backlog"
 src="blocks/backlog"

@@ -12,15 +12,15 @@ src="blocks/spaced-repetition"
 time="30"
 [[blocks]]
 name="What is HTML"
-src="module/html-css/what-is-html""
+src="module/html-css/what-is-html"
 time="55"
 [[blocks]]
 name="Transferable skills prep"
-src="https://cyf-pd.netlify.app/blocks//prep-transferable-skills/readme/""
+src="https://cyf-pd.netlify.app/blocks/prep-transferable-skills/readme/"
 time="51"
 [[blocks]]
 name="Feedback"
-src="https://cyf-pd.netlify.app/blocks//prep-for-feedback/readme/""
+src="https://cyf-pd.netlify.app/blocks/prep-for-feedback/readme/"
 [[blocks]]
 name="Playlist"
 src="https://www.youtube.com/watch?v=mBmX7944vd0&list=PLozA7cloMbPgk5gK8His2CeuJTKofypbV&index=7"

@@ -45,10 +45,10 @@ name="Afternoon break"
 src="blocks/afternoon-break"
 [[blocks]]
 name="Teamwork Project Presentation"
-src="https://cyf-pd.netlify.app/blocks//teamwork-project-s4/readme/""
+src="https://cyf-pd.netlify.app/blocks/teamwork-project-s4/readme/"
 [[blocks]]
 name="Create groups"
-src="https://cyf-pd.netlify.app/blocks//create-groups-for-react/readme/""
+src="https://cyf-pd.netlify.app/blocks/create-groups-for-react/readme/"
 [[blocks]]
 name="Retrospective"
 src="blocks/retro"

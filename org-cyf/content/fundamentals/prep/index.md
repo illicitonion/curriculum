@@ -8,10 +8,10 @@ weight = 1
 backlog= "Course-Fundamentals"
 [[blocks]]
 name="Read and sign CYF agreements"
-src="https://cyf-pd.netlify.app/blocks//agreements/readme/""
+src="https://cyf-pd.netlify.app/blocks/agreements/readme/"
 [[blocks]]
 name="Childcare expenses"
-src="https://cyf-pd.netlify.app/blocks//childcare-expenses/readme/""
+src="https://cyf-pd.netlify.app/blocks/childcare-expenses/readme/"
 [[blocks]]
 name="Fork your Planner"
 src="https://www.youtube.com/watch?v=cnx0RuAu2tc"

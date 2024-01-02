@@ -18,13 +18,13 @@ name="Spaced Repetition"
 src="blocks/spaced-repetition"
 [[blocks]]
 name="What are Components?"
-src="module/html-css/what-are-components""
+src="module/html-css/what-are-components"
 [[blocks]]
 name="Understand SMART goals"
-src="https://cyf-pd.netlify.app/blocks//prep-for-smart-goals/readme/""
+src="https://cyf-pd.netlify.app/blocks/prep-for-smart-goals/readme/"
 [[blocks]]
 name="Review your CYF journey"
-src="https://cyf-pd.netlify.app/blocks//prep-for-introspection/readme/""
+src="https://cyf-pd.netlify.app/blocks/prep-for-introspection/readme/"
 [[blocks]]
 name="Backlog"
 src="blocks/backlog"

@@ -11,7 +11,7 @@ name="Energiser"
 src="blocks/energiser"
 [[blocks]]
 name="Resilience"
-src="https://cyf-pd.netlify.app/blocks//resilience/readme/""
+src="https://cyf-pd.netlify.app/blocks/resilience/readme/"
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"
@@ -24,7 +24,7 @@ name="Lunch"
 src="blocks/lunch"
 [[blocks]]
 name="React Hotel: Working in teams"
-src="module/react/team-project""
+src="module/react/team-project"
 time="90"
 [[blocks]]
 name="Code Review"

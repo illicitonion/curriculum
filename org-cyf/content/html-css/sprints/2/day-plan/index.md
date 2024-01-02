@@ -11,7 +11,7 @@ name="Energiser"
 src="blocks/energiser"
 [[blocks]]
 name="Active listening"
-src="https://cyf-pd.netlify.app/blocks//active-listening/readme/""
+src="https://cyf-pd.netlify.app/blocks/active-listening/readme/"
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"

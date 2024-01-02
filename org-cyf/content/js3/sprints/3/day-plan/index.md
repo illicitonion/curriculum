@@ -12,7 +12,7 @@ src="blocks/energiser"
 time=10
 [[blocks]]
 name= "Teamwork Project"
-src="https://cyf-pd.netlify.app/blocks//teamwork-project-s3""
+src="https://cyf-pd.netlify.app/blocks/teamwork-project-s3"
 [[blocks]]
 src="blocks/morning-break"
 name="Morning break"

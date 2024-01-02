@@ -11,7 +11,7 @@ name="Energiser"
 src="blocks/energiser"
 [[blocks]]
 name="Roles in the tech industry"
-src="https://cyf-pd.netlify.app/blocks//roles-in-the-tech-industry/readme/""
+src="https://cyf-pd.netlify.app/blocks/roles-in-the-tech-industry/readme/"
 [[blocks]]
 src="blocks/morning-break"
 name="Morning break"

@@ -7,5 +7,5 @@ menu = ['syllabus']
 weight='1'
 [[blocks]]
 name="Goals"
-src="module/fundamentals/goals""
+src="module/fundamentals/goals"
 +++

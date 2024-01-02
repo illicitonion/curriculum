@@ -11,7 +11,7 @@ name="Energiser"
 src="blocks/energiser"
 [[blocks]]
 name="JD Hunting and Mock Interview"
-src="https://cyf-pd.netlify.app/blocks//jd-hunting-and-mock-interview/readme/""
+src="https://cyf-pd.netlify.app/blocks/jd-hunting-and-mock-interview/readme/"
 time="60"
 [[blocks]]
 name="Morning break"

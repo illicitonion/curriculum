@@ -11,7 +11,7 @@ name="Energiser"
 src="blocks/energiser"
 [[blocks]]
 name="Failing Fast"
-src="https://cyf-pd.netlify.app/blocks//failing-fast/readme/""
+src="https://cyf-pd.netlify.app/blocks/failing-fast/readme/"
 [[blocks]]
 src="blocks/morning-break"
 name="Morning break"

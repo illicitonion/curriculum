@@ -11,7 +11,7 @@ name="Energiser"
 src="blocks/energiser"
 [[blocks]]
 name="Problem Solving"
-src="https://cyf-pd.netlify.app/blocks//problem-solving/readme/""
+src="https://cyf-pd.netlify.app/blocks/problem-solving/readme/"
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"

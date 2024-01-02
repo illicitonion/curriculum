@@ -8,7 +8,7 @@ backlog= 'Course-Fundamentals'
 backlog_filter= 'Week 3'
 [[blocks]]
 name="Prepare Your CYF Blocks Presentation"
-src="https://cyf-pd.netlify.app/blocks//prepare-your-blocky-presentation/readme/""
+src="https://cyf-pd.netlify.app/blocks/prepare-your-blocky-presentation/readme/"
 [[blocks]]
 name="backlog"
 src="blocks/backlog"

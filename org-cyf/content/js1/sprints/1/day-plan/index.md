@@ -11,7 +11,7 @@ name="Energiser"
 src="blocks/energiser"
 [[blocks]]
 name= "Critical Thinking"
-src="https://cyf-pd.netlify.app/blocks//critical-thinking/readme/""
+src="https://cyf-pd.netlify.app/blocks/critical-thinking/readme/"
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"

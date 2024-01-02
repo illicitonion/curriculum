@@ -12,25 +12,25 @@ name="telephone"
 src="blocks/telephone"
 [[blocks]]
 name="blockers"
-src="module/fundamentals/blockers""
+src="module/fundamentals/blockers"
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"
 [[blocks]]
 name="Presenting your project"
-src="https://cyf-pd.netlify.app/blocks//presenting-your-blockly-project/readme/""
+src="https://cyf-pd.netlify.app/blocks/presenting-your-blockly-project/readme/"
 [[blocks]]
 name="lunch"
 src="blocks/lunch"
 [[blocks]]
 name="Ship it"
-src="module/fundamentals/ship-it-delivery""
+src="module/fundamentals/ship-it-delivery"
 [[blocks]]
 name="Wrap up"
-src="module/fundamentals/wrap-up""
+src="module/fundamentals/wrap-up"
 [[blocks]]
 name="Next steps"
-src="module/fundamentals/next-steps""
+src="module/fundamentals/next-steps"
 [[blocks]]
 name="Retro"
 src="blocks/retro"

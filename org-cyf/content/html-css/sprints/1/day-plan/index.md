@@ -33,13 +33,13 @@ src="blocks/study-group"
 time="60"
 [[blocks]]
 name="Transferable skills"
-src="https://cyf-pd.netlify.app/blocks//transferable-skills/readme/""
+src="https://cyf-pd.netlify.app/blocks/transferable-skills/readme/"
 [[blocks]]
 name="Feedback"
-src="https://cyf-pd.netlify.app/blocks//feedback/readme/""
+src="https://cyf-pd.netlify.app/blocks/feedback/readme/"
 [[blocks]]
 name="Pairs for next week"
-src="https://cyf-pd.netlify.app/blocks//pairs-for-next-week/readme/""
+src="https://cyf-pd.netlify.app/blocks/pairs-for-next-week/readme/"
 [[blocks]]
 name="Retro"
 src="blocks/retro"

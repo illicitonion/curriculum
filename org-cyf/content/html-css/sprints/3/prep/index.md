@@ -14,10 +14,10 @@ name="Spaced Repetition"
 src="blocks/spaced-repetition"
 [[blocks]]
 name="What are Forms"
-src="module/html-css/what-are-forms""
+src="module/html-css/what-are-forms"
 [[blocks]]
 name="Developer Communication"
-src="https://cyf-pd.netlify.app/blocks//prep-developer-communication/readme/""
+src="https://cyf-pd.netlify.app/blocks/prep-developer-communication/readme/"
 [[blocks]]
 name="backlog"
 src="blocks/backlog"

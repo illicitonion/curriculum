@@ -11,7 +11,7 @@ name="Energiser"
 src="blocks/energiser"
 [[blocks]]
 name="Diversity and Inclusion"
-src="https://cyf-pd.netlify.app/blocks//diversity-and-inclusion/readme/""
+src="https://cyf-pd.netlify.app/blocks/diversity-and-inclusion/readme/"
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"

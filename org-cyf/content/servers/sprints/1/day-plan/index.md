@@ -8,7 +8,7 @@ backlog= 'Module-Servers'
 backlog_filter= 'Week 1'
 [[blocks]]
 name="Non-Verbal Communication Energiser"
-src="https://cyf-pd.netlify.app/blocks//non-verbal-communication/readme/""
+src="https://cyf-pd.netlify.app/blocks/non-verbal-communication/readme/"
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"

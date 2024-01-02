@@ -11,7 +11,7 @@ name="Energiser"
 src="blocks/energiser"
 [[blocks]]
 name= "Developer Communication"
-src="https://cyf-pd.netlify.app/blocks//developer-communication/readme/""
+src="https://cyf-pd.netlify.app/blocks/developer-communication/readme/"
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"

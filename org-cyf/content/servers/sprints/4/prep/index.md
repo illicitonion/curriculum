@@ -11,5 +11,5 @@ name="Play Wordle"
 src="blocks/wordle"
 [[blocks]]
 name="Prep Sell Yourself"
-src="https://cyf-pd.netlify.app/blocks//prep-sell-yourself/readme/""
+src="https://cyf-pd.netlify.app/blocks/prep-sell-yourself/readme/"
 +++

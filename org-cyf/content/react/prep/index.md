@@ -12,6 +12,6 @@ src="https://www.youtube.com/watch?v=Rh3tobg7hEo"
 time=45
 [[blocks]]
 name="Check you can create a React app with Vite"
-src="module/react/vite""
+src="module/react/vite"
 time=5
 +++

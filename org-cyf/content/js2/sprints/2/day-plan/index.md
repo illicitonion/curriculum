@@ -11,7 +11,7 @@ name="Energiser"
 src="blocks/energiser"
 [[blocks]]
 name="Conflict Resolution"
-src="https://cyf-pd.netlify.app/blocks//conflict-resolution/readme/""
+src="https://cyf-pd.netlify.app/blocks/conflict-resolution/readme/"
 [[blocks]]
 src="blocks/morning-break"
 name="Morning break"

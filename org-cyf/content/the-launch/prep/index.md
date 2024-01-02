@@ -8,5 +8,5 @@ weight = 1
 backlog= 'Module-The-Launch'
 [[blocks]]
 name="Prep for Launch"
-src="https://cyf-pd.netlify.app/blocks//launch-prep/readme/""
+src="https://cyf-pd.netlify.app/blocks/launch-prep/readme/"
 +++

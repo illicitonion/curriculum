@@ -11,7 +11,7 @@ name="Energiser"
 src="blocks/energiser"
 [[blocks]]
 name="WIP And Feedback"
-src="https://cyf-pd.netlify.app/blocks//wip-and-feedback/readme/""
+src="https://cyf-pd.netlify.app/blocks/wip-and-feedback/readme/"
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"

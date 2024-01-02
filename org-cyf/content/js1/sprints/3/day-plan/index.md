@@ -11,7 +11,7 @@ name="Energiser"
 src="blocks/energiser"
 [[blocks]]
 name="Growth Mindset"
-src="https://cyf-pd.netlify.app/blocks//growth-mindset/readme/""
+src="https://cyf-pd.netlify.app/blocks/growth-mindset/readme/"
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"

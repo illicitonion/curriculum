@@ -8,7 +8,7 @@ weight = 1
 backlog= 'Module-Servers'
 [[blocks]]
 name="Install Postman"
-src="module/servers/postman""
+src="module/servers/postman"
 [[blocks]]
 name="What are APIs?"
 src="https://www.youtube.com/watch?v=OVvTv9Hy91Q"

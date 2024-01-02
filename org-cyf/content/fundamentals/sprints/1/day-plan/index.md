@@ -12,16 +12,16 @@ name="Energiser"
 src="blocks/energiser"
 [[blocks]]
 name="Importance of PD"
-src="https://cyf-pd.netlify.app/blocks//fundamentals-test/readme/""
+src="https://cyf-pd.netlify.app/blocks/fundamentals-test/readme/"
 [[blocks]]
 name="Code of Conduct"
-src="https://cyf-pd.netlify.app/blocks//lets-talk-about-our-code-of-conduct/readme/""
+src="https://cyf-pd.netlify.app/blocks/lets-talk-about-our-code-of-conduct/readme/"
 [[blocks]]
 name="Morning break"
 src="blocks/morning-break"
 [[blocks]]
 name="Using the curriculum"
-src="module/fundamentals/using-the-curriculum""
+src="module/fundamentals/using-the-curriculum"
 [[blocks]]
 name="lunch"
 src="blocks/lunch"
@@ -39,7 +39,7 @@ name="Afternoon break"
 src="blocks/afternoon-break"
 [[blocks]]
 name="Ship It"
-src="module/fundamentals/ship-it-requirements""
+src="module/fundamentals/ship-it-requirements"
 [[blocks]]
 name="Retro"
 src="blocks/retro"
