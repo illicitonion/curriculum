@@ -29,11 +29,11 @@ src="blocks/lunch"
 name="telephone"
 src="blocks/telephone"
 [[blocks]]
-name="User Stories"
-src="blocks/user-stories"
-[[blocks]]
 name="Requirements"
 src="blocks/requirements"
+[[blocks]]
+name="User Stories"
+src="blocks/user-stories"
 [[blocks]]
 name="Afternoon break"
 src="blocks/afternoon-break"
