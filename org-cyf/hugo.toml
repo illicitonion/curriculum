@@ -36,21 +36,6 @@ orgapi = "https://api.github.com/repos/CodeYourFuture/"
 # Daniel is currently hosting this code https://github.com/illicitonion/github-issue-proxy but we should work out a long-term maintainable solution to this problem.
 issuesorgapi = "https://github-issue-proxy.illicitonion.com/repos/CodeYourFuture/"
 
-[markup]
-[markup.tableOfContents]
-endLevel = 2
-ordered = true
-startLevel = 2
-[markup.highlight]
-lineNos = false
-codeFences = true
-guessSyntax = true
-[markup.goldmark.renderer]
-# Enable HTML codeblocks, e.g. for <details> blocks
-unsafe = true
-hardWraps = true
-disableKinds = ["taxonomy", "term"]
-footnote= true
 
 [caches.getjson]
 # Disable caching of fetches - we want every build to get up to date content for issues, so that if people make clarifications or fixes to issues, we pick them up.
