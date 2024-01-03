@@ -1,0 +1,28 @@
+title = 'Platform Docs'
+
+[menus]
+    [[menus.secondary]]
+        name = "Menu 1 👈🏾"
+        weight = 1
+        url = ""
+     [[menus.secondary]]
+        name = "Menu 2 👋🏿"
+        weight = 2
+        url = ""
+    [[menus.secondary]]
+        name = "Menu 3 🫶🏼"
+        weight = 3
+        url = ""
+
+
+[module]
+  [[module.imports]]
+    path = "github.com/CodeYourFuture/curriculum-labs/common-theme" 
+  [[module.imports]]
+    path = "github.com/CodeYourFuture/curriculum-labs/common-content" 
+    [[module.imports.mounts]]
+      source = "en"
+      target = "content"
+
+
+theme = "common-theme"
