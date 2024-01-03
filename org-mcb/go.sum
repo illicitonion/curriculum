@@ -1,4 +1,8 @@
 github.com/CodeYourFuture/curriculum-labs/common-content v0.0.0-20240102214534-da87149f35af h1:U5+DqmG2dcL2M0mz1j1lGBzvVVCSxxBECUcL0Q8tYy8=
 github.com/CodeYourFuture/curriculum-labs/common-content v0.0.0-20240102214534-da87149f35af/go.mod h1:w5rIm9hJlHD+CYpQEVMWE/6WaE/EiLmYVs18Kw/iH0s=
+github.com/CodeYourFuture/curriculum-labs/common-content v0.0.0-20240103080005-9df00eb2dc83 h1:Onca81dsBXXlq7Ii+wtEhEUosFjN/Jy9cbL4FAzomaE=
+github.com/CodeYourFuture/curriculum-labs/common-content v0.0.0-20240103080005-9df00eb2dc83/go.mod h1:w5rIm9hJlHD+CYpQEVMWE/6WaE/EiLmYVs18Kw/iH0s=
 github.com/CodeYourFuture/curriculum-labs/common-theme v0.0.0-20240102214534-da87149f35af h1:FBPrvu2XwQteSgzV7shBu/dJUY+hJtUTT4zSXDSHKRM=
 github.com/CodeYourFuture/curriculum-labs/common-theme v0.0.0-20240102214534-da87149f35af/go.mod h1:lWiQfXWr0Uc517tksx7D5p5ZoXo9bxRoJ0or+z9mRyk=
+github.com/CodeYourFuture/curriculum-labs/common-theme v0.0.0-20240103080005-9df00eb2dc83 h1:nrZAOFhV7InyFLKl0uAuhU2F/D0sJnoOxy/HSFjyeZc=
+github.com/CodeYourFuture/curriculum-labs/common-theme v0.0.0-20240103080005-9df00eb2dc83/go.mod h1:lWiQfXWr0Uc517tksx7D5p5ZoXo9bxRoJ0or+z9mRyk=
